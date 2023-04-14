@@ -12,5 +12,6 @@ return {
     ensure_installed = { "typescript" },
     ensure_installed = { "latex" },
     ensure_installed = { "ocaml" },
+    ensure_installed = { "c" },
   },
 }
