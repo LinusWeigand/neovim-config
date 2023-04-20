@@ -17,6 +17,9 @@ return {
     },
   },
 
+  -- Enable clipboard support
+  vim.opt.clipboard:append("unnamedplus"),
+
   -- Set colorscheme to use
   colorscheme = "astrodark",
 
